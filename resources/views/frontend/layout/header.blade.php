@@ -71,6 +71,8 @@
 
 
 <body id="bg">
+    {{-- <div id=progress>
+    </div> --}}
     <div class="page-wraper">
         <div id="loading-icon-bx"></div>
         <!-- Header Top ==== -->
